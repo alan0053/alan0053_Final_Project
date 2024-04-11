@@ -1,0 +1,12 @@
+
+/////// 1. Part
+
+cd Documents
+
+mkdir alan0053_Final_Project
+
+cd alan0053_Final_Project
+
+touch T1Q1.txt 
+
+cat T1Q1.txt 

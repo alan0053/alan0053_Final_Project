@@ -1,0 +1,15 @@
+
+/// Creating and using alias
+
+inside ./zshrc we can write alias with :
+
+alias FinalProject="~/Documents/code/alan0053_Final_Project"
+
+
+cd FinalProject // to navigate with alias
+
+
+
+
+
+
